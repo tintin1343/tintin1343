@@ -1,6 +1,6 @@
 ## Hello World
 
-Hi. I'm [Nitin](https://www.nameshouts.com/libs/media/nitin_hi.mp3). I am a Software Engineer living in Texas. I build and fix things at [Text-Em-All](https://www.text-em-all.com/). Javascript is my language of choice. During normal (pre-pandemic) times, I mentor kids at [Frisco CoderDojo](https://dojo.call-em-all.com/#/Home)
+Hi. I'm [Nitin](https://www.nameshouts.com/libs/media/nitin_hi.mp3). I am a Software Engineer living in Texas. I build and fix things at [Text-Em-All](https://www.text-em-all.com/). Javascript is my language of choice. During normal (pre-pandemic) times, I mentor kids at [Frisco CoderDojo](https://dojo.call-em-all.com/#/Home).
 
 ### Here's some things you would want to know about me:
 

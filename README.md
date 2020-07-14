@@ -6,11 +6,11 @@ Hi. I'm [Nitin](https://www.nameshouts.com/libs/media/nitin_hi.mp3). I am a Soft
 
 - 🔭 I’m currently working on Product & Cloud DevOps at [Text-Em-All](https://www.text-em-all.com/)
 - 🌱 I’m currently learning the dark magic that is AWS/ DevOps
-- 👯 I’m looking to collaborate on open source projects, fun app Ideas, fitness, mentoring students.
+- 👯 I’m looking to collaborate on open source projects, fun app Ideas, fitness etc.
 - 💬 Ask me about React, Javascript, Coding, Photography, Cycling, Space, Fitness, Being a migrant in the USA ...
 - 📖 Currently reading: [So You Want to Talk About Race](https://www.amazon.com/You-Want-Talk-About-Race/dp/1580058825)
 - 🎶 Currently listening to: [Hamilton Sound Track](https://open.spotify.com/playlist/4ZcGI2hFTy5Rruln175z9X)
-- 📫 How to reach me: [Email](mailto:nitin1343@gmail.com) or [LinkedIn](https://www.linkedin.com/in/shettynitin/)
+- 📫 How to reach me: 📧 [Email](mailto:nitin1343@gmail.com), [LinkedIn](https://www.linkedin.com/in/shettynitin/), [Twitter](https://twitter.com/tintin1343)
 - 😄 Pronouns: He/ Him
 - ⚡ Fun fact: My name is a [Palindrome](https://en.wikipedia.org/wiki/Palindrome).
 <!-- - 🤔 I’m looking for help with ... -->
